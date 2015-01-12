@@ -1,0 +1,30 @@
+object Form1: TForm1
+  Left = 0
+  Height = 240
+  Top = 0
+  Width = 320
+  Caption = 'Form1'
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnKeyPress = FormKeyPress
+  LCLVersion = '1.2.6.0'
+  WindowState = wsFullScreen
+  object Timer1: TTimer
+    Enabled = False
+    OnTimer = Timer1Timer
+    left = 16
+    top = 16
+  end
+  object Timer2: TTimer
+    Enabled = False
+    OnTimer = Timer2Timer
+    left = 72
+    top = 16
+  end
+  object Timer3: TTimer
+    Interval = 100
+    OnTimer = Timer3Timer
+    left = 128
+    top = 16
+  end
+end

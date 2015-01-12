@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="43">
+      <Unit0>
+        <Filename Value="..\lpoint.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LPoint"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="8" Y="9"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\ltypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LTypes"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="16"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\lgraphics.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LGraphics"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\llevel.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LLevel"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\lposition.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LPosition"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\linifiles.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LIniFiles"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\lmap.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LMap"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\ltexture.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LTexture"/>
+        <EditorIndex Value="8"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\lsize.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LSize"/>
+        <EditorIndex Value="9"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="F:\project1.lpr"/>
+        <UnitName Value="project1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="24"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="F:\unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="69"/>
+        <CursorPos X="1" Y="78"/>
+        <UsageCount Value="24"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="F:\ltypes.pas"/>
+        <UnitName Value="LTypes"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="51"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="24"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="F:\lgraphics.pas"/>
+        <UnitName Value="LGraphics"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="113"/>
+        <CursorPos X="20" Y="27"/>
+        <UsageCount Value="24"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="F:\linifiles.pas"/>
+        <UnitName Value="LIniFiles"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="52"/>
+        <CursorPos X="41" Y="63"/>
+        <UsageCount Value="24"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="F:\llevel.pas"/>
+        <UnitName Value="LLevel"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="18"/>
+        <CursorPos X="34" Y="26"/>
+        <UsageCount Value="24"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="F:\lmap.pas"/>
+        <UnitName Value="LMap"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="24"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="F:\lposition.pas"/>
+        <UnitName Value="LPosition"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="43"/>
+        <CursorPos X="1" Y="56"/>
+        <UsageCount Value="24"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="F:\lsize.pas"/>
+        <UnitName Value="LSize"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="24"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="F:\ltexture.pas"/>
+        <UnitName Value="LTexture"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="24"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\inc\objpash.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="182"/>
+        <CursorPos X="23" Y="192"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1505"/>
+        <CursorPos X="15" Y="1515"/>
+        <UsageCount Value="10"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\lazarus\lcl\extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="473"/>
+        <CursorPos X="15" Y="482"/>
+        <UsageCount Value="10"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="194"/>
+        <CursorPos X="1" Y="207"/>
+        <UsageCount Value="10"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1395"/>
+        <CursorPos X="1" Y="1405"/>
+        <UsageCount Value="10"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="C:\lazarus\lcl\include\interfacebase.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="44"/>
+        <CursorPos X="1" Y="54"/>
+        <UsageCount Value="10"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32object.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="378"/>
+        <CursorPos X="1" Y="388"/>
+        <UsageCount Value="10"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="C:\lazarus\components\lazutils\lazfileutils.pas"/>
+        <UnitName Value="LazFileUtils"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="146"/>
+        <CursorPos X="24" Y="49"/>
+        <UsageCount Value="10"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="C:\lazarus\components\lazutils\winlazfileutils.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="951"/>
+        <CursorPos X="24" Y="962"/>
+        <UsageCount Value="10"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="C:\lazarus\lcl\include\wincontrol.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="6450"/>
+        <CursorPos X="1" Y="6466"/>
+        <UsageCount Value="10"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="4817"/>
+        <CursorPos X="1" Y="4827"/>
+        <UsageCount Value="10"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="C:\lazarus\lcl\lclclasses.pp"/>
+        <UnitName Value="LCLClasses"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="114"/>
+        <CursorPos X="20" Y="131"/>
+        <UsageCount Value="10"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="C:\lazarus\lcl\include\graphiccontrol.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="29"/>
+        <CursorPos X="1" Y="39"/>
+        <UsageCount Value="10"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="C:\lazarus\lcl\include\scrollingwincontrol.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="248"/>
+        <CursorPos X="1" Y="265"/>
+        <UsageCount Value="10"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="C:\lazarus\lcl\include\customcontrol.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="42"/>
+        <CursorPos X="1" Y="54"/>
+        <UsageCount Value="10"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\inc\mathh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="67"/>
+        <CursorPos X="17" Y="75"/>
+        <UsageCount Value="10"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\inc\innr.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="100"/>
+        <CursorPos X="4" Y="113"/>
+        <UsageCount Value="10"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="project2.res"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="project2.lps"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="project2.lpi"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="project2unit1.lfm"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="project2unit1.pas"/>
+        <HasResources Value="True"/>
+        <UnitName Value="project2unit1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="20"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="project1unit1.lfm"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="14" Y="11"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="project1unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="38"/>
+        <CursorPos X="3" Y="40"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit42>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="11" HistoryIndex="10">
+      <Position1>
+        <Filename Value="..\lpoint.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="..\lpoint.pas"/>
+        <Caret Line="23" Column="46" TopLine="11"/>
+      </Position2>
+      <Position3>
+        <Filename Value="..\lpoint.pas"/>
+        <Caret Line="37" Column="24" TopLine="24"/>
+      </Position3>
+      <Position4>
+        <Filename Value="..\lpoint.pas"/>
+        <Caret Line="42" Column="10" TopLine="27"/>
+      </Position4>
+      <Position5>
+        <Filename Value="..\lpoint.pas"/>
+        <Caret Line="45" Column="15" TopLine="32"/>
+      </Position5>
+      <Position6>
+        <Filename Value="..\lpoint.pas"/>
+        <Caret Line="85" Column="12" TopLine="59"/>
+      </Position6>
+      <Position7>
+        <Filename Value="..\lpoint.pas"/>
+        <Caret Line="19" Column="43" TopLine="14"/>
+      </Position7>
+      <Position8>
+        <Filename Value="project1unit1.pas"/>
+        <Caret Line="67" Column="50" TopLine="56"/>
+      </Position8>
+      <Position9>
+        <Filename Value="..\lpoint.pas"/>
+        <Caret Line="50" Column="96" TopLine="32"/>
+      </Position9>
+      <Position10>
+        <Filename Value="project1unit1.pas"/>
+        <Caret Line="44" Column="5" TopLine="30"/>
+      </Position10>
+      <Position11>
+        <Filename Value="project1unit1.pas"/>
+        <Caret Line="1" Column="6" TopLine="1"/>
+      </Position11>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="2">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="F:\unit1.pas"/>
+        <Line Value="51"/>
+      </Item1>
+      <Item2>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="F:\lposition.pas"/>
+        <Line Value="52"/>
+      </Item2>
+    </BreakPoints>
+    <Watches Count="2">
+      <Item1>
+        <Expression Value="FFx"/>
+      </Item1>
+      <Item2>
+        <Expression Value="FFy"/>
+      </Item2>
+    </Watches>
+  </Debugging>
+  <EditorMacros Count="0"/>
+</CONFIG>

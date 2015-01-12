@@ -1,0 +1,23 @@
+object Form1: TForm1
+  Left = 234
+  Height = 240
+  Top = 134
+  Width = 320
+  Caption = 'Form1'
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnKeyPress = FormKeyPress
+  LCLVersion = '1.2.6.0'
+  object Timer1: TTimer
+    Enabled = False
+    OnTimer = Timer1Timer
+    left = 16
+    top = 16
+  end
+  object Timer2: TTimer
+    Enabled = False
+    OnTimer = Timer2Timer
+    left = 72
+    top = 16
+  end
+end

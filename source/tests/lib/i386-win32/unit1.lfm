@@ -1,0 +1,11 @@
+object Form1: TForm1
+  Left = 232
+  Height = 240
+  Top = 106
+  Width = 320
+  Caption = 'Form1'
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnKeyPress = FormKeyPress
+  LCLVersion = '1.2.4.0'
+end

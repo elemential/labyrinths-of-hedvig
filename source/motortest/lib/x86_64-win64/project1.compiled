@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\2.6.4\bin\x86_64-win64\fpc.exe" Date="1162574780"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -vewnhi &quot;-FiC:\Users\LED\Google Drive\data\source\motortest\lib\x86_64-win64&quot; &quot;-FuC:\Users\LED\Google Drive\data\source&quot; -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 &quot;-FuC:\Users\LED\Google Drive\data\source\motortest\&quot; &quot;-FUC:\Users\LED\Google Drive\data\source\motortest\lib\x86_64-win64\&quot; -l -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>
